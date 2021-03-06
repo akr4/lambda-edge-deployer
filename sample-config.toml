@@ -1,0 +1,11 @@
+[[functions]]
+name = "webapp_staging_viewer_request"
+bundle = "build/webapp_staging_webapp_viewer_request/index.js"
+
+[[functions]]
+name = "webapp_staging_origin_request"
+bundle = "build/webapp_staging_webapp_origin_request/index.js"
+
+[[functions]]
+name = "webapp_staging_origin_response"
+bundle = "build/webapp_staging_webapp_origin_response/index.js"
